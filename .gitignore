@@ -1,0 +1,10 @@
+#gitignore file.   Probably going to ignore all .txt files since they have relevant info in them.
+
+
+*.txt
+
+#has the data that I am putting into the table
+secondary-structures.csv
+
+#same data as above, but in the format to add it to the table
+secondary_structures.sql
