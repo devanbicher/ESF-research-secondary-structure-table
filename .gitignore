@@ -8,3 +8,7 @@ secondary-structures.csv
 
 #same data as above, but in the format to add it to the table
 secondary_structures.sql
+
+## update information in the table with distance to protein, also nohup file from running the python script with nohup.
+secondary-protein/update-protdist-secondary_structures.sql
+secondary-protein/nohup.out
